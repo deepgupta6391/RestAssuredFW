@@ -1,0 +1,3 @@
+com/qa/api/gorest/tests/CreateUserTest.class
+com/qa/api/gorest/tests/GetImgurAPITest.class
+com/qa/api/gorest/tests/GetUserTest.class
